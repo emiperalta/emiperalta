@@ -1,5 +1,3 @@
-<p><strong> < <strong></p>
-
 <h1 align='center'>Hola mundo 👋</h1>
 
 <h3 align='center'> Mi nombre es Emiliano y soy un Desarrolador Fullstack (o eso intento). </h3>
@@ -24,5 +22,3 @@
 
 - .NET / .NET Core
 - Java / Servlets
-
-<p><strong> /> <strong></p>
