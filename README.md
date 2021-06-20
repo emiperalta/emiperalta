@@ -4,10 +4,6 @@
 
 <br/>
 
-### 🌱 Actualmente estoy aprendiendo:
-
-- Docker
-
 ### 💻 Mi stack y herramientas actuales:
 
 - HTML / CSS
@@ -15,8 +11,3 @@
 - MongoDB / MySQL / SQL Server
 - React / Next
 - Git
-
-#### Aunque tambien tengo conocimientos en:
-
-- .NET / .NET Core
-- Java / Servlets
