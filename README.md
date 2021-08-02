@@ -7,4 +7,3 @@
 <p align='center'> Node / Express / .NET </p>
 <p align='center'> MongoDB / MySQL / SQL Server </p>
 <p align='center'> React / Next </p>
-<p align='center'> Git </p>
