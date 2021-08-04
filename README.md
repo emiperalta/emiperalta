@@ -1,9 +1,15 @@
-<h1 align='center'>Hola mundo 👋</h1>
+<div align='center'>
+  <h1>Hola mundo 👋</h1>
+  <h3>Mi nombre es Emiliano y soy un Desarrolador Fullstack</h3>
+  <br />
+  <h3>💻 Mi stack y herramientas actuales:</h3>
+  <br />
+  <p>Node / Express / .NET</p>
+  <p>MongoDB / MySQL / SQL Server</p>
+  <p>React / Next</p>
+  <br /><br />
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiperalta&layout=compact&hide=css)
 
-<h3 align='center'> Mi nombre es Emiliano y soy un Desarrolador Fullstack </h3>
-<br />
-<h3 align='center'> 💻 Mi stack y herramientas actuales: </h3>
-<br />
-<p align='center'> Node / Express / .NET </p>
-<p align='center'> MongoDB / MySQL / SQL Server </p>
-<p align='center'> React / Next </p>
+</div>
+
