@@ -9,7 +9,7 @@
   <p>React / Next</p>
   <br /><br />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiperalta&layout=compact&hide=css)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiperalta&langs_count=10&layout=compact)
 
 </div>
 
