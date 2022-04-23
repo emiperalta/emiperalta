@@ -1,10 +1,10 @@
 <div align='center'>
   <h1>Hola mundo 👋</h1>
-  <h3>Mi nombre es Emiliano y soy un Desarrolador Fullstack</h3>
+  <h3>Mi nombre es Emiliano y soy Desarrollador Web FullStack</h3>
   <br />
   <h3>💻 Mi stack y herramientas actuales:</h3>
   <br />
-  <p>Node / Express / Typescript</p>
+  <p>Node / Express / Nest / Typescript</p>
   <p>Jest</p>
   <p>MongoDB / MySQL / PostgreSQL</p>
   <p>React / Redux / Next</p>
