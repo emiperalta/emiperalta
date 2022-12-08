@@ -4,7 +4,7 @@
   <br />
   <h3>💻 Mi stack y herramientas actuales:</h3>
   <br />
-  <p>Node / Express / Typescript | Laravel / CakePHP</p>
+  <p>Node / Express / Typescript | Laravel</p>
   <p>MySQL / PostgreSQL</p>
   <br /><br />
   
